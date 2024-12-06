@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About Me
-I'm a second-year student at Samara State Technical University (SamGTU) majoring in Information Technology. 
+I'm a third-year student at Samara State Technical University (SamGTU) majoring in Information Technology. 
 I specialize in Java programming. 
 You can find my projects on my GitHub page, please contribute.
 
